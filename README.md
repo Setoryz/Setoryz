@@ -1,6 +1,9 @@
 ### Hi there, I am Jesuseyitan 👋
 
+<p>
 I am a freelance developer and I primarily work on react and nextjs projects.
+<br/>I like messing with moving pixels when i'm not typing multicolored statements.
+</p>
 
 <!--
 **Setoryz/Setoryz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
