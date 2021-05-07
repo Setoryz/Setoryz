@@ -10,11 +10,10 @@ I am a freelance developer and I primarily work on react and nextjs projects.
 
 <!-- Here are some ideas to get you started: -->
 
-<!-- - 🔭 I’m currently working on ... -->
-
 <!-- - 🌱 I’m currently learning best React Development Practices -->
 <!-- - 🤔 I’m looking for help with ... -->
 
+- 🔭 I’m currently working on [`get-trailer`](https://github.com/Setoryz/get-trailer)
 - 👯 I’m looking to collaborate on any javascript project
 - 💬 Ask me about **TypeScript && MERN Stack**
 - 📫 How to reach me: **[`odukoyajesuseyitan@gmail.com`](mailto:odukoyajesuseyitan@gmail.com)**
