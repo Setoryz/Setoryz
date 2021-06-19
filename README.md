@@ -14,7 +14,7 @@ I am a freelance developer and I primarily work on react and nextjs projects.
 
 <!-- - 👯 I’m looking to collaborate on any interesting project -->
 
-- 🌱 I’m currently learning Vim && three.js
+- 🌱 I’m currently learning nestjs && postgresql
 - 🔭 I’m currently working on [`get-trailer`](https://github.com/Setoryz/get-trailer)
 - 💬 Ask me about **TypeScript && MERN Stack**
 - 📫 How to reach me: **[`odukoyajesuseyitan@gmail.com`](mailto:odukoyajesuseyitan@gmail.com)**
