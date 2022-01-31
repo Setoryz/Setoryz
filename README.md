@@ -1,8 +1,8 @@
-### Hi there, I am Jesuseyitan 👋
+### Hi there, I am Seyi 👋
 
 <p>
-I am a freelance developer and I primarily work on react and nextjs projects.
-<br/>I like messing with moving pixels when i'm not typing multicolored statements.
+I am a frontend developer and I primarily work on react and nextjs projects.
+<br/>I like messing with motion graphics when i'm not typing multicolored statements.
 </p>
 
 <!--
@@ -14,8 +14,8 @@ I am a freelance developer and I primarily work on react and nextjs projects.
 
 <!-- - 👯 I’m looking to collaborate on any interesting project -->
 
-- 🌱 I’m currently learning nestjs && postgresql
-- 🔭 I’m currently working on [`get-trailer`](https://github.com/Setoryz/get-trailer)
+- 🌱 I’m currently learning threejs 
+<!-- - 🔭 I’m currently working on [`get-trailer`](https://github.com/Setoryz/get-trailer) -->
 - 💬 Ask me about **TypeScript && MERN Stack**
 - 📫 How to reach me: **[`odukoyajesuseyitan@gmail.com`](mailto:odukoyajesuseyitan@gmail.com)**
 - 💼 See my full portfolio at **[`jesuseyitan.com`](https://jesuseyitan.com)**
