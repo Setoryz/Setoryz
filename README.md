@@ -1,48 +1,43 @@
-### Hi there, I am Seyi 👋
+### Hey there, I’m Seyi 👋
 
 <p>
-I am a frontend developer and I primarily work on react and nextjs projects.
-<br/>I like messing with motion graphics when i'm not typing multicolored statements.
+I'm a software engineer with a strong background in frontend engineering (React, Next.js, TypeScript) and a growing passion for backend systems and infrastructure.
 </p>
 
-<!--
-**Setoryz/Setoryz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p>
+These days, when I'm not shipping user interfaces, I'm knee-deep in YAML files, playing with Kubernetes clusters, automating deployments with Terraform and Ansible, or tuning Go APIs for performance.
+</p>
 
-<!-- Here are some ideas to get you started: -->
+---
 
-<!-- - 🤔 I’m looking for help with ... -->
+- 💻  I specialize in **React**, **Next.js**, and **TypeScript**
+- 🧠  Currently learning more about **Kubernetes**, **Terraform**, and **Go**
+- 🛠️  Dabble in **DevOps**, CI/CD pipelines, and cloud-native tooling for fun
+- 💬  Ask me about **frontend architecture**, **full-stack design**, or **infra setup**
+- 📫  Reach me at **[`odukoyajesuseyitan@gmail.com`](mailto:odukoyajesuseyitan@gmail.com)**
+- 🌐  Portfolio: **[`jesuseyitan.com`](https://jesuseyitan.com)**
 
-<!-- - 👯 I’m looking to collaborate on any interesting project -->
-
-- 🌱 I’m currently learning threejs 
-<!-- - 🔭 I’m currently working on [`get-trailer`](https://github.com/Setoryz/get-trailer) -->
-- 💬 Ask me about **TypeScript && MERN Stack**
-- 📫 How to reach me: **[`odukoyajesuseyitan@gmail.com`](mailto:odukoyajesuseyitan@gmail.com)**
-- 💼 See my full portfolio at **[`jesuseyitan.com`](https://jesuseyitan.com)**
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - ⚡ Fun fact: ... -->
+---
 
 <div>
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>📊 GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=setoryz&show_icons=true&hide_border=true" />
+  <img align="center" alt="Seyi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=setoryz&show_icons=true&hide_border=true" />
 
 </details>
 </div>
 
 <div>
 <details>
-  <summary>GitHub History</summary>
+  <summary>🔥 GitHub Streak</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=setoryz&" alt="setoryz" /></p>
-.
 </details>
 </div>
 
 <div>
 <details>
-  <summary>Most Used Languages</summary>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=setoryz&show_icons=true&locale=en&layout=compact" alt="drakosi99" /></p>
+  <summary>📈 Most Used Languages</summary>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=setoryz&show_icons=true&locale=en&layout=compact" alt="setoryz" /></p>
 </details>
 </div>
