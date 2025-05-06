@@ -18,26 +18,6 @@ These days, when I'm not shipping user interfaces, I'm knee-deep in YAML files, 
 - 🌐  Portfolio: **[`jesuseyitan.com`](https://jesuseyitan.com)**
 
 ---
+[![Seyi's GitHub stats](https://github-readme-stats-eight-theta-45.vercel.app/api?username=setoryz)](https://github.com/setoryz)
 
-<div>
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  <img align="center" alt="Seyi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=setoryz&show_icons=true&hide_border=true" />
-
-</details>
-</div>
-
-<div>
-<details>
-  <summary>🔥 GitHub Streak</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=setoryz&" alt="setoryz" /></p>
-</details>
-</div>
-
-<div>
-<details>
-  <summary>📈 Most Used Languages</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=setoryz&show_icons=true&locale=en&layout=compact" alt="setoryz" /></p>
-</details>
-</div>
+[![Seyi's Top Languages](https://github-readme-stats-eight-theta-45.vercel.app/api/top-langs/?username=setoryz&hide=html,css,scss&layout=compact)](https://github.com/setoryz)
