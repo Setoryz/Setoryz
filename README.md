@@ -14,7 +14,7 @@ These days, when I'm not shipping user interfaces, I'm knee-deep in YAML files, 
 - 🧠  Currently learning more about **Kubernetes**, **Terraform**, and **Go**
 - 🛠️  Dabble in **DevOps**, CI/CD pipelines, and cloud-native tooling for fun
 - 💬  Ask me about **frontend architecture**, **full-stack design**, or **infra setup**
-- 📫  Reach me at **[`odukoyajesuseyitan@gmail.com`](mailto:odukoyajesuseyitan@gmail.com)**
+- 📫  Reach me at **[`me@jesuseyitan.com`](mailto:me@jesuseyitan.com)**
 - 🌐  Portfolio: **[`jesuseyitan.com`](https://jesuseyitan.com)**
 
 ---
